@@ -1,4 +1,4 @@
-County,State,State FIPS Code,County FIPS Code,FIPS,Total Population,Male Population,Female Population,Total Race Responses,White Alone,Black or African American Alone,Hispanic or Latino,,White Population,Black Population,Hispanic/Latino Population,,,Total
+County,State,State FIPS Code,County FIPS Code,fips,Total Population,Male Population,Female Population,Total Race Responses,White Alone,Black or African American Alone,Hispanic or Latino,,White Population,Black Population,Hispanic/Latino Population,,,Total
 Autauga County,Alabama,01,001,1001,59285,28669,30616,59285,43616,11829,2188,,0.73570043,0.199527705,0.036906469,,,0.972134604
 Baldwin County,Alabama,01,003,1003,239945,117316,122629,239945,198721,19144,13393,,0.828193961,0.079784951,0.055816958,,,
 Barbour County,Alabama,01,005,1005,24757,12906,11851,24757,10891,11616,1490,,0.439915983,0.46920063,0.060184998,,,

@@ -1,4 +1,4 @@
-county_fips,county,unemployment_rate,rate_confidence,area_unemployment_rate,FIPS_Code,State,Area_Name,Attribute,Value,,Predicted-Actual
+fips,county,unemployment_rate,rate_confidence,area_unemployment_rate,FIPS_Code,State,Area_Name,Attribute,Value,,Predicted-Actual
 1000,,4.23,0.812,3.91,1000,AL,Alabama,Unemployment_rate_2023,2.5,,1.73
 1001,"Autauga County, AL",4.27,0.842,3.95,1001,AL,"Autauga County, AL",Unemployment_rate_2023,2.2,,2.07
 0,,5.23,0.812,4.56,0,US,United States,Unemployment_rate_2023,3.6,,1.63
